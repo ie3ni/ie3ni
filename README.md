@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ie3ni
 - 👀 I’m interested in all things math and computer science related
-- 🌱 I’m currently learning about Blockchain Technology, Game Theory, Consensus Algorithms, Hash Functions, and Graphic Design
+- 🌱 I’m currently learning about Zero-Knowledge Proofs, Game Theory, Consensus Algorithms, Hash Functions, NFTs, and Graphic Design
 
 
 <!---
