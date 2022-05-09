@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FluffyPancakes
-- 👀 I’m interested in all things math and computer science related
+- 👀 I’m interested in all things crypto, finance, math and computer science related
 - 🌱 I’m currently learning about Zero-Knowledge Proofs, Game Theory, Consensus Algorithms, Hash Functions, NFTs, and Graphic Design
 
 
