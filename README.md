@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ie3ni
+- 👋 Hi, I’m @FLuffyPancakes
 - 👀 I’m interested in all things math and computer science related
 - 🌱 I’m currently learning about Zero-Knowledge Proofs, Game Theory, Consensus Algorithms, Hash Functions, NFTs, and Graphic Design
 
