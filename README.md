@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @FluffyPancakes
-- 👀 I’m interested in all things crypto, finance, math and computer science related
-- 🌱 I’m currently learning about Zero-Knowledge Proofs, Game Theory, Consensus Algorithms, Hash Functions, NFTs, and Graphic Design
+- 👋 Hi, I’m @ie3ni
+- 👀 I’m interested in all things math, finance, and computer science related
+- 🌱 I’m currently learning about Generative AI, local LLMs, Zero-Knowledge Proofs, Game Theory, Hash Functions, and Graphic Design
 
 
 <!---
