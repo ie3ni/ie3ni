@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ie3ni
-- 👀 I’m interested in all things math, finance, and computer science related
+- 👀 Interested in all things math, finance, and computer science related
 - 🌱 I’m currently learning about Generative AI, local LLMs, Zero-Knowledge Proofs, Game Theory, Hash Functions, and Graphic Design
 
 
